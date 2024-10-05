@@ -1,0 +1,1 @@
+# plugins-woocommerce-chilean-peso-currency
